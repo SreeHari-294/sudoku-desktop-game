@@ -123,7 +123,7 @@
    <top>
       <VBox alignment="CENTER" prefHeight="98.0" prefWidth="600.0" BorderPane.alignment="CENTER">
          <children>
-            <Label text="Edited By: Sreehari Vijayan" />
+            <Label text="%MY_NAME" />
             <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="40.0" prefWidth="300.0" text="%MENU_TITLE" textAlignment="CENTER">
                <font>
                   <Font name="System Bold" size="25.0" />
